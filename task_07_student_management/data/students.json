@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Dhruv Doshi",
+    "age": 20,
+    "course": "EC",
+    "email": "dhruv2006@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Dhruv Patel",
+    "age": 20,
+    "course": "CE",
+    "email": "dhruv2007@gmail.com"
+  }
+]
