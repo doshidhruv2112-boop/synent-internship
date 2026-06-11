@@ -56,28 +56,6 @@ python web_scraper.py
 
 Output files are written to `task_08_web_scraper/output/` (generated at runtime, not committed to Git).
 
-## Setup
-
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate it:
-
-### Windows
-```bash
-venv\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-
 ## Author
 
 Internship project — Synent Technologies
