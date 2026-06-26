@@ -1,7 +1,5 @@
 # Task 7 — Student Management System
 
-**GitHub:** https://github.com/doshidhruv2112-boop/synent-internship/tree/main/task_07_student_management
-
 ## Objective
 
 Manage student records through a command-line interface with persistent file storage.
