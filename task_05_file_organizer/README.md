@@ -1,7 +1,5 @@
 # Task 5 — File Organizer
 
-**GitHub:** https://github.com/doshidhruv2112-boop/synent-internship/tree/main/task_05_file_organizer
-
 ## Objective
 
 Automatically organize files into folders based on file type.
