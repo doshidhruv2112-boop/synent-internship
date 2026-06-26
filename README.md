@@ -10,8 +10,6 @@ Python projects completed during internship at **Synent Technologies**.
 | **7** | Student Management System | https://github.com/doshidhruv2112-boop/synent-internship/tree/main/task_07_student_management |
 | **8** | Web Scraper | https://github.com/doshidhruv2112-boop/synent-internship/tree/main/task_08_web_scraper |
 
-**Repository:** https://github.com/doshidhruv2112-boop/synent-internship
-
 ## Setup
 
 ```bash
