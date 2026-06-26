@@ -1,7 +1,5 @@
 # Task 8 — Web Scraper
 
-**GitHub:** https://github.com/doshidhruv2112-boop/synent-internship/tree/main/task_08_web_scraper
-
 ## Objective
 
 Extract structured data from websites and save results to CSV and JSON.
